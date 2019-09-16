@@ -39,7 +39,7 @@ const handleFetchUser = (userToken) => {
       return (dispatch,getState) => {
           dispatch(fetchLoginrequest())
           if (credentials) {
-              if(credentials.email=='oluwaseun@gmail.com' && credentials.password=='password'){
+              if(credentials.email=='ocheben@gmail.com' && credentials.password=='password'){
                  dispatch(fetchedUserSuccess(credentials)) 
               }else{
 
