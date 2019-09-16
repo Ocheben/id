@@ -1,4 +1,3 @@
-# id
 # Id app Built with  react native
 
 ## Installation
@@ -21,4 +20,5 @@ To emulate on iOS device go to the root directory and run:
 ## Credentials
 
 Username: `ocheben@gmail.com`
+
 Password: `password`
