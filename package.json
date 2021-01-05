@@ -9,7 +9,7 @@
   "dependencies": {
     "adb": "^0.2.0",
     "awesome-phonenumber": "^2.3.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "naija-state-local-government": "^1.1.0",
     "native-base": "^2.8.1",
     "react": "16.6.1",
